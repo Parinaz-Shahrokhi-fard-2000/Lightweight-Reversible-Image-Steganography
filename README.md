@@ -22,10 +22,14 @@ The method ensures:
 
 ---
 
-## 📊 Key Results
+## Key Results
 - **Best Configuration**: Multi-Scale + UNet  
 - **PSNR**: 27.0597 dB  
 - **SSIM**: 0.9113  
 - **Steganalysis Resistance**: CNN (~50% accuracy), SRNet (~73% accuracy)
 
 You can download the dataset from Google Drive : [https://drive.google.com/file/d/1dojkKIqT9WKrwry0kUQPA2ckfy_dHZ7J/view?usp=sharing].
+
+## Large Files
+Experiments file : [https://drive.google.com/file/d/1VkcrQfroUFVuE0IbnCfrwF5cTDfveZwH/view?usp=sharing]
+
